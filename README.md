@@ -14,7 +14,7 @@
   
 - 💬 Ask me about Database ,Data Warehous,Data Modeling, SQL, Python, Power BI, Excel
 
-- 👨‍💻 All of my projects are available at [ Portfolio ](https://mavenshowcase.com/profile/48e183c0-e021-7067-2f37-aa3050a5cfb2)
+<!-- -👨‍💻 All of my projects are available at [ Portfolio ](https://mavenshowcase.com/profile/48e183c0-e021-7067-2f37-aa3050a5cfb2) -->
 
 - 📫 How to reach me **eman.elbordeny@gmail.com**
 
@@ -31,19 +31,19 @@
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Eman_Elbordeny-2EC866?logo=hackerrank)](https://www.hackerrank.com/profile/eman_elbordeny)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Eman_Elbordeny-FFA116?logo=leetcode)](https://leetcode.com/u/Eman_Elbordeny/)
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-Eman_Elbordeny-1F8ACB?logo=codeforces)](https://codeforces.com/profile/Eman_Elbordeny)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Eman_Elbordeny-20BEFF?logo=kaggle)](https://www.kaggle.com/emanelbordeny)
 
+<!--[![Codeforces](https://img.shields.io/badge/Codeforces-Eman_Elbordeny-1F8ACB?logo=codeforces)](https://codeforces.com/profile/Eman_Elbordeny) -->
+
 [![Maven Analytics](https://img.shields.io/badge/Maven%20Analytics-Eman-orange?logo=apache-maven)](https://app.mavenanalytics.io/portfolio)
-[![Netlify](https://img.shields.io/badge/Netlify-Eman-00C7B7?logo=netlify)](https://www.netlify.com/)
+<!--[![Netlify](https://img.shields.io/badge/Netlify-Eman-00C7B7?logo=netlify)](https://www.netlify.com/)-->
 
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eman-elbordeny-2511e997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eman-elbordeny-2511e997" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/emanelbordeny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/emanelbordeny" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/eman_elbordeny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/eman_elbordeny" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/eman_elbordeny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/eman_elbordeny" height="30" width="40" /></a>
+<!--<a href="https://codeforces.com/profile/https://codeforces.com/profile/eman_elbordeny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/eman_elbordeny" height="30" width="40" /></a>-->
 <a href="https://www.leetcode.com/https://leetcode.com/u/eman_elbordeny/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/eman_elbordeny/" height="30" width="40" /></a>
 </p>
 
