@@ -16,7 +16,7 @@
 
 <!-- -👨‍💻 All of my projects are available at [ Portfolio ](https://mavenshowcase.com/profile/48e183c0-e021-7067-2f37-aa3050a5cfb2) -->
 
-- 📫 How to reach me **eman.elbordeny@gmail.com**
+- 📫 How to reach me **eaelbordeny@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1yPsjQyjDU7kzresm8znj4DFli2WBYEEi/view?usp=drive_link)
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Email](https://img.shields.io/badge/Email-eman.elbordeny@gmail.com-red?logo=gmail)](mailto:eman.elbordeny@gmail.com)
+[![Email](https://img.shields.io/badge/Email-eman.elbordeny@gmail.com-red?logo=gmail)](mailto:eaelbordeny@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eman-blue?logo=linkedin)](https://www.linkedin.com/in/eman-elbordeny-2511e997)
 [![GitHub](https://img.shields.io/badge/GitHub-Eman-black?logo=github)](https://github.com/Eman2597)
 
