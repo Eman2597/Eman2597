@@ -18,14 +18,14 @@
 
 - 📫 How to reach me **eaelbordeny@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/drive/u/1/folders/1rOaOrTyEgrGnmwk99qhPUMUj02BjwD2T)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1N3y39KuYiG0ufAvnat_refE9FMeg8V2P/view?usp=drive_link)
 
 - ⚡ Fun fact **I love fun, reading and traveling**
   
 
 <h3 align="left">Connect with me:</h3>
 
-[![Email](https://img.shields.io/badge/Email-eman.elbordeny@gmail.com-red?logo=gmail)](mailto:eaelbordeny@gmail.com)
+[![Email](https://img.shields.io/badge/Email-eaelbordeny@gmail.com-red?logo=gmail)](mailto:eaelbordeny@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eman-blue?logo=linkedin)](https://www.linkedin.com/in/eman-elbordeny-2511e997)
 [![GitHub](https://img.shields.io/badge/GitHub-Eman-black?logo=github)](https://github.com/Eman2597)
 
