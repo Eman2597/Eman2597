@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **eaelbordeny@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1yPsjQyjDU7kzresm8znj4DFli2WBYEEi/view?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/drive/u/1/folders/1rOaOrTyEgrGnmwk99qhPUMUj02BjwD2T)
 
 - ⚡ Fun fact **I love fun, reading and traveling**
   
