@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Data Analysis project**
 
-- 🌱 I’m currently learning **Apache Airflow, Cloud Computing, Power BI, and MongoDB.**
+- 🌱 I’m currently learning **Apache Airflow, Cloud Computing, Power BI, and Big Data.**
   
 - 💬 Ask me about Database ,Data Warehous,Data Modeling, SQL, Python, Power BI, Excel
 
