@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 
 [![Email](https://img.shields.io/badge/Email-eaelbordeny@gmail.com-red?logo=gmail)](mailto:eaelbordeny@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eman-blue?logo=linkedin)](https://www.linkedin.com/in/eman-elbordeny-2511e997)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eman-blue?logo=linkedin)](https://www.linkedin.com/in/eman-elbordeny-2511e997/)
 [![GitHub](https://img.shields.io/badge/GitHub-Eman-black?logo=github)](https://github.com/Eman2597)
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Eman_Elbordeny-2EC866?logo=hackerrank)](https://www.hackerrank.com/profile/eman_elbordeny)
